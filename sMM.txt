@@ -1,0 +1,50 @@
+-link analysis
+[heuristic based
+template based
+similarity based
+statistical based]
+-social network analysis
+[ego,complete]
+-centrality[
+degree,closeness,betweeness]
+-prestige
+[degree,closeness,proximity]
+-PR{
+method1,method2,method3}
+-HITS hyperlink induced topic search[john klienbergg]{hub(o),authority(i)}(stops when previous and
+current iteration value has slight difference)
+-bibliograohic coupling(undirect)
+-co citation coupling(direct)
+-weighted PR
+-community detection
+[ intro,community vs clustering, four algo{
+louvain[modularity],suprise[classical probability],leiden[(refinement)add 3 steps],walkthrough[random walks]}
+-web graph(to understand large dataset,directed graph){used algo(hits,topic enumerate[crawling based algo],naive)}
+-Link based web classification(intro,yahoo web graph - web SE - webnode - website- seed - URL,categarical,model evaluation
+confusion matrix,error,precision,recall)
+-Classification(rule pruning,multiple minimum car support(CAR))
+-naive bayes(intro,adv, formula, car example)
+-ensemble classifier(intro,diagram,challenge,problem,some example,coordinated types,approach,bagging(variance),
+random forest)
+-K means(intro,steps,example)
+-hierarchical (intro,dendrogram,agglomerative,divisive,linkage types[single,complete,average,centroid]
+-log files(intro,CLF,info,insights,why need,additional logs,monitor)
+-VSM(intro,two factor[TF,IDF],Cosine similarity,pivot normalization,synonym)
+-Relevance feedback and QE(intro(two analysis,what is RF,about roccio algo,probability relevance,drawbacks,
+when does rf work?,rf evaluation,types of RF(implicit,sudo),thesaurus(similarity,statistical),modern methods(session,
+user,overall impact[components])
+-LSI(Single value decomposition)
+-web usage mining(classification,types,adv,disadv,techniques,application,flow chart)
+-Indexing(intro[search key,reference key],attributes,types[sequencial,hash(cluster,non-cluster,multilevel])
+-inverted index(intro,types,static and dynamic,difference)
+-Depth first search
+-Dynamic programming
+-Fasta
+-decision tree(intro,why decision tree,terminology,steps,example,asm,info gain,gini index,adv,disadv)
+-architecture of WWW
+-clickstream(data and analytics),traffic analysis,ecommerce analysis,benefits[user info,user route,UX,digital 
+marketing,trends and insights)
+-
+
+
+
